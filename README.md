@@ -41,8 +41,11 @@ Power 5V
 ##External resources and acknowledgments
 
 [Samsung CLP-510 How to reset counters](https://www.fixyourownprinter.com/posts/44879)
+
 [Sad Samsung - The little printer that couldn't](https://web.archive.org/web/20080704102128/http://www.dunfield.com/clp510/)
+
 [Samsung CLP-510 Memory Chip Investigation](https://www.youtube.com/watch?v=k0XBZd5VQnM)
+
 [M24C04 EEPROM Datasheet](https://www.st.com/resource/en/datasheet/m24c04-w.pdf)
 
 
