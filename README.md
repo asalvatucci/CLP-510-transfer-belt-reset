@@ -38,7 +38,7 @@ Power 5V
 
 4. You are all set! Put back the transfer belt into your printer and enjoy 50k more pages of great printing, as well as the nice feeling of helping the environment by reducing waste.
 
-##External resources and acknowledgments
+## External resources and acknowledgments
 
 [Samsung CLP-510 How to reset counters](https://www.fixyourownprinter.com/posts/44879)
 
